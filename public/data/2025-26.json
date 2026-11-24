@@ -1,0 +1,1560 @@
+{
+  "season": "2025-26",
+  "sid": 35,
+  "source": "https://hnl.hr/povijest/rezultati-i-poretci/?sid=35",
+  "scrapedAt": "2026-11-24T08:25:42.431Z",
+  "matches": [
+    {
+      "round": 1,
+      "date": "01.08.2025. 20:00",
+      "home": "LOKOMOTIVA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 1,
+      "date": "02.08.2025. 21:00",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 1,
+      "date": "03.08.2025. 18:45",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 1,
+      "date": "03.08.2025. 21:00",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "04.08.2025. 20:00",
+      "home": "VARAŽDIN",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "08.08.2025. 21:00",
+      "home": "DINAMO",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 2,
+      "date": "09.08.2025. 18:15",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 2,
+      "date": "09.08.2025. 21:00",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 2,
+      "date": "10.08.2025. 18:45",
+      "home": "SLAVEN BELUPO",
+      "away": "VARAŽDIN",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "10.08.2025. 21:00",
+      "home": "HAJDUK",
+      "away": "GORICA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 3,
+      "date": "15.08.2025. 18:45",
+      "home": "VUKOVAR 1991",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "16.08.2025. 18:15",
+      "home": "LOKOMOTIVA",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 3,
+      "date": "16.08.2025. 21:00",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 3,
+      "date": "17.08.2025. 18:45",
+      "home": "VARAŽDIN",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 3,
+      "date": "17.08.2025. 21:00",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 4,
+      "date": "22.08.2025. 20:00",
+      "home": "VUKOVAR 1991",
+      "away": "GORICA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "23.08.2025. 18:45",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "23.08.2025. 21:00",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 4,
+      "date": "24.08.2025. 18:30",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "24.08.2025. 21:00",
+      "home": "RIJEKA",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 5,
+      "date": "29.08.2025. 20:00",
+      "home": "ISTRA 1961",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 5,
+      "date": "30.08.2025. 18:45",
+      "home": "VUKOVAR 1991",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 5,
+      "date": "30.08.2025. 21:00",
+      "home": "VARAŽDIN",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 5,
+      "date": "31.08.2025. 18:15",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 5,
+      "date": "31.08.2025. 21:00",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 6,
+      "date": "12.09.2025. 20:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "13.09.2025. 17:00",
+      "home": "VARAŽDIN",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 6,
+      "date": "13.09.2025. 19:45",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "14.09.2025. 17:00",
+      "home": "OSIJEK",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 6,
+      "date": "14.09.2025. 19:15",
+      "home": "DINAMO",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 7,
+      "date": "20.09.2025. 17:00",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 7,
+      "date": "20.09.2025. 20:00",
+      "home": "LOKOMOTIVA",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 7,
+      "date": "21.09.2025. 17:00",
+      "home": "GORICA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 7,
+      "date": "21.09.2025. 19:15",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 7,
+      "date": "22.09.2025. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "RIJEKA",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 8,
+      "date": "26.09.2025. 18:00",
+      "home": "VARAŽDIN",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 8,
+      "date": "27.09.2025. 16:00",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "27.09.2025. 18:45",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "28.09.2025. 16:00",
+      "home": "GORICA",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 8,
+      "date": "28.09.2025. 18:15",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "03.10.2025. 18:00",
+      "home": "ISTRA 1961",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 9,
+      "date": "04.10.2025. 15:45",
+      "home": "VUKOVAR 1991",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "04.10.2025. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "05.10.2025. 15:45",
+      "home": "GORICA",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 9,
+      "date": "05.10.2025. 18:45",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "17.10.2025. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "18.10.2025. 15:30",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "18.10.2025. 18:00",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "19.10.2025. 16:00",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 10,
+      "date": "19.10.2025. 18:15",
+      "home": "GORICA",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 11,
+      "date": "24.10.2025. 18:00",
+      "home": "GORICA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 11,
+      "date": "25.10.2025. 15:45",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 11,
+      "date": "25.10.2025. 18:00",
+      "home": "VARAŽDIN",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 11,
+      "date": "27.10.2025. 16:30",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 11,
+      "date": "27.10.2025. 19:00",
+      "home": "VUKOVAR 1991",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "01.11.2025. 16:00",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 12,
+      "date": "01.11.2025. 18:45",
+      "home": "ISTRA 1961",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 12,
+      "date": "02.11.2025. 16:00",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "02.11.2025. 18:15",
+      "home": "OSIJEK",
+      "away": "VARAŽDIN",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "03.11.2025. 18:00",
+      "home": "GORICA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "07.11.2025. 18:00",
+      "home": "GORICA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "08.11.2025. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "08.11.2025. 17:45",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 13,
+      "date": "09.11.2025. 16:00",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "09.11.2025. 18:15",
+      "home": "VARAŽDIN",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 14,
+      "date": "21.11.2025. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "22.11.2025. 15:00",
+      "home": "DINAMO",
+      "away": "VARAŽDIN",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "22.11.2025. 18:00",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "round": 14,
+      "date": "23.11.2025. 16:00",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "23.11.2025. 18:15",
+      "home": "GORICA",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 15,
+      "date": "28.11.2025. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 15,
+      "date": "29.11.2025. 15:30",
+      "home": "HAJDUK",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 15,
+      "date": "29.11.2025. 18:15",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 15,
+      "date": "30.11.2025. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 15,
+      "date": "01.12.2025. 18:00",
+      "home": "GORICA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 16,
+      "date": "05.12.2025. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "GORICA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 16,
+      "date": "06.12.2025. 15:00",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 16,
+      "date": "06.12.2025. 18:00",
+      "home": "RIJEKA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 16,
+      "date": "07.12.2025. 15:00",
+      "home": "VARAŽDIN",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 16,
+      "date": "07.12.2025. 17:30",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 5
+    },
+    {
+      "round": 17,
+      "date": "12.12.2025. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "VARAŽDIN",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 17,
+      "date": "13.12.2025. 15:00",
+      "home": "OSIJEK",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 17,
+      "date": "13.12.2025. 17:45",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 17,
+      "date": "14.12.2025. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 5
+    },
+    {
+      "round": 17,
+      "date": "20.01.2026. 16:00",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 18,
+      "date": "19.12.2025. 16:00",
+      "home": "VARAŽDIN",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 18,
+      "date": "20.12.2025. 15:00",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "20.12.2025. 17:45",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "21.12.2025. 15:00",
+      "home": "HAJDUK",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 18,
+      "date": "21.12.2025. 17:45",
+      "home": "RIJEKA",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 19,
+      "date": "24.01.2026. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "24.01.2026. 17:15",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 19,
+      "date": "25.01.2026. 15:00",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 19,
+      "date": "25.01.2026. 17:45",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 19,
+      "date": "26.01.2026. 16:00",
+      "home": "GORICA",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "30.01.2026. 18:00",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 20,
+      "date": "31.01.2026. 15:00",
+      "home": "GORICA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 20,
+      "date": "31.01.2026. 17:45",
+      "home": "SLAVEN BELUPO",
+      "away": "VARAŽDIN",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "01.02.2026. 15:00",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 20,
+      "date": "02.02.2026. 18:00",
+      "home": "DINAMO",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 21,
+      "date": "06.02.2026. 18:00",
+      "home": "LOKOMOTIVA",
+      "away": "GORICA",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 21,
+      "date": "07.02.2026. 15:00",
+      "home": "VUKOVAR 1991",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "07.02.2026. 17:15",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 21,
+      "date": "08.02.2026. 15:00",
+      "home": "VARAŽDIN",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 21,
+      "date": "08.02.2026. 17:45",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "13.02.2026. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "14.02.2026. 15:00",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "14.02.2026. 17:15",
+      "home": "RIJEKA",
+      "away": "VARAŽDIN",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "15.02.2026. 15:00",
+      "home": "GORICA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "15.02.2026. 17:45",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "20.02.2026. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "21.02.2026. 15:00",
+      "home": "ISTRA 1961",
+      "away": "GORICA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "21.02.2026. 17:15",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 23,
+      "date": "22.02.2026. 15:00",
+      "home": "VARAŽDIN",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "round": 23,
+      "date": "22.02.2026. 17:45",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "27.02.2026. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "28.02.2026. 15:00",
+      "home": "OSIJEK",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "28.02.2026. 17:45",
+      "home": "VARAŽDIN",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 24,
+      "date": "01.03.2026. 15:00",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "01.03.2026. 17:15",
+      "home": "DINAMO",
+      "away": "GORICA",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "06.03.2026. 18:00",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 25,
+      "date": "07.03.2026. 15:00",
+      "home": "GORICA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "07.03.2026. 17:15",
+      "home": "LOKOMOTIVA",
+      "away": "VARAŽDIN",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 25,
+      "date": "08.03.2026. 15:00",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 25,
+      "date": "08.03.2026. 17:45",
+      "home": "VUKOVAR 1991",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "13.03.2026. 18:00",
+      "home": "VARAŽDIN",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 26,
+      "date": "14.03.2026. 15:00",
+      "home": "OSIJEK",
+      "away": "GORICA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 26,
+      "date": "14.03.2026. 17:15",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 26,
+      "date": "15.03.2026. 15:00",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "15.03.2026. 17:45",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 27,
+      "date": "20.03.2026. 18:00",
+      "home": "ISTRA 1961",
+      "away": "VARAŽDIN",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 27,
+      "date": "21.03.2026. 15:00",
+      "home": "VUKOVAR 1991",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 6
+    },
+    {
+      "round": 27,
+      "date": "21.03.2026. 17:15",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 5
+    },
+    {
+      "round": 27,
+      "date": "22.03.2026. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 27,
+      "date": "22.03.2026. 17:45",
+      "home": "GORICA",
+      "away": "RIJEKA",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "03.04.2026. 18:15",
+      "home": "VARAŽDIN",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 28,
+      "date": "04.04.2026. 15:00",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 7,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "04.04.2026. 17:45",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 28,
+      "date": "07.04.2026. 15:45",
+      "home": "VUKOVAR 1991",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 28,
+      "date": "07.04.2026. 18:00",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 29,
+      "date": "11.04.2026. 16:00",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "12.04.2026. 16:00",
+      "home": "VARAŽDIN",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 29,
+      "date": "12.04.2026. 16:00",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 29,
+      "date": "12.04.2026. 18:30",
+      "home": "HAJDUK",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "13.04.2026. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "round": 30,
+      "date": "17.04.2026. 15:30",
+      "home": "GORICA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "17.04.2026. 17:45",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "17.04.2026. 20:15",
+      "home": "OSIJEK",
+      "away": "VARAŽDIN",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "18.04.2026. 16:00",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "18.04.2026. 18:45",
+      "home": "ISTRA 1961",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 31,
+      "date": "21.04.2026. 16:00",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 31,
+      "date": "21.04.2026. 18:45",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 31,
+      "date": "22.04.2026. 15:30",
+      "home": "VUKOVAR 1991",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 31,
+      "date": "22.04.2026. 17:45",
+      "home": "VARAŽDIN",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "22.04.2026. 20:15",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 32,
+      "date": "25.04.2026. 16:00",
+      "home": "SLAVEN BELUPO",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 32,
+      "date": "25.04.2026. 18:15",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "26.04.2026. 16:00",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "26.04.2026. 18:45",
+      "home": "DINAMO",
+      "away": "VARAŽDIN",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 32,
+      "date": "27.04.2026. 18:00",
+      "home": "GORICA",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "02.05.2026. 16:00",
+      "home": "GORICA",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 33,
+      "date": "02.05.2026. 18:45",
+      "home": "VUKOVAR 1991",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "03.05.2026. 16:00",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 33,
+      "date": "03.05.2026. 18:45",
+      "home": "HAJDUK",
+      "away": "VARAŽDIN",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 33,
+      "date": "04.05.2026. 18:00",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "08.05.2026. 20:00",
+      "home": "RIJEKA",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 34,
+      "date": "09.05.2026. 16:00",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 34,
+      "date": "09.05.2026. 18:45",
+      "home": "VARAŽDIN",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "10.05.2026. 16:00",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "10.05.2026. 18:15",
+      "home": "SLAVEN BELUPO",
+      "away": "GORICA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 35,
+      "date": "15.05.2026. 18:00",
+      "home": "VUKOVAR 1991",
+      "away": "VARAŽDIN",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 35,
+      "date": "16.05.2026. 16:00",
+      "home": "GORICA",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 35,
+      "date": "16.05.2026. 18:15",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 35,
+      "date": "17.05.2026. 16:00",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "round": 35,
+      "date": "17.05.2026. 18:45",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "22.05.2026. 16:00",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "22.05.2026. 18:15",
+      "home": "HAJDUK",
+      "away": "VUKOVAR 1991",
+      "homeGoals": 6,
+      "awayGoals": 3
+    },
+    {
+      "round": 36,
+      "date": "23.05.2026. 16:00",
+      "home": "VARAŽDIN",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "23.05.2026. 16:00",
+      "home": "RIJEKA",
+      "away": "GORICA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "23.05.2026. 18:45",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    }
+  ],
+  "officialTable": [
+    {
+      "pos": 1,
+      "club": "DINAMO",
+      "played": 36,
+      "won": 27,
+      "drawn": 5,
+      "lost": 4,
+      "gf": 93,
+      "ga": 28,
+      "points": 86
+    },
+    {
+      "pos": 2,
+      "club": "HAJDUK",
+      "played": 36,
+      "won": 20,
+      "drawn": 8,
+      "lost": 8,
+      "gf": 61,
+      "ga": 36,
+      "points": 68
+    },
+    {
+      "pos": 3,
+      "club": "VARAŽDIN",
+      "played": 36,
+      "won": 15,
+      "drawn": 9,
+      "lost": 12,
+      "gf": 47,
+      "ga": 46,
+      "points": 54
+    },
+    {
+      "pos": 4,
+      "club": "RIJEKA",
+      "played": 36,
+      "won": 14,
+      "drawn": 11,
+      "lost": 11,
+      "gf": 49,
+      "ga": 36,
+      "points": 53
+    },
+    {
+      "pos": 5,
+      "club": "LOKOMOTIVA",
+      "played": 36,
+      "won": 10,
+      "drawn": 14,
+      "lost": 12,
+      "gf": 40,
+      "ga": 52,
+      "points": 44
+    },
+    {
+      "pos": 6,
+      "club": "ISTRA 1961",
+      "played": 36,
+      "won": 12,
+      "drawn": 7,
+      "lost": 17,
+      "gf": 39,
+      "ga": 50,
+      "points": 43
+    },
+    {
+      "pos": 7,
+      "club": "GORICA",
+      "played": 36,
+      "won": 11,
+      "drawn": 8,
+      "lost": 17,
+      "gf": 40,
+      "ga": 48,
+      "points": 41
+    },
+    {
+      "pos": 8,
+      "club": "SLAVEN BELUPO",
+      "played": 36,
+      "won": 10,
+      "drawn": 11,
+      "lost": 15,
+      "gf": 46,
+      "ga": 61,
+      "points": 41
+    },
+    {
+      "pos": 9,
+      "club": "OSIJEK",
+      "played": 36,
+      "won": 8,
+      "drawn": 11,
+      "lost": 17,
+      "gf": 27,
+      "ga": 49,
+      "points": 35
+    },
+    {
+      "pos": 10,
+      "club": "VUKOVAR 1991",
+      "played": 36,
+      "won": 6,
+      "drawn": 10,
+      "lost": 20,
+      "gf": 37,
+      "ga": 73,
+      "points": 28
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "miso",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "scrape": "node scraper/run.js",
+    "fixtures": "node scraper/capture-fixtures.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "devDependencies": {
+    "vitest": "^5.1.1"
+  }
+}

@@ -1,0 +1,1560 @@
+{
+  "season": "2013-14",
+  "sid": 23,
+  "source": "https://hnl.hr/povijest/rezultati-i-poretci/?sid=23",
+  "scrapedAt": "2026-11-24T08:25:29.589Z",
+  "matches": [
+    {
+      "round": 1,
+      "date": "12.07.2013.",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "12.07.2013.",
+      "home": "ZADAR",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 5
+    },
+    {
+      "round": 1,
+      "date": "12.07.2013.",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 1,
+      "date": "12.07.2013.",
+      "home": "SPLIT",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "12.07.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 2,
+      "date": "22.07.2013.",
+      "home": "DINAMO",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 2,
+      "date": "22.07.2013.",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "22.07.2013.",
+      "home": "ISTRA 1961",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "22.07.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 2,
+      "date": "22.07.2013.",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 3,
+      "date": "27.07.2013.",
+      "home": "ZADAR",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "27.07.2013.",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 3,
+      "date": "27.07.2013.",
+      "home": "SPLIT",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 3,
+      "date": "27.07.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "27.07.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 4,
+      "date": "02.08.2013.",
+      "home": "ZADAR",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "02.08.2013.",
+      "home": "DINAMO",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 4,
+      "date": "02.08.2013.",
+      "home": "HAJDUK",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 4,
+      "date": "02.08.2013.",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "02.08.2013.",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 5,
+      "date": "12.08.2013.",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 5,
+      "awayGoals": 1
+    },
+    {
+      "round": 5,
+      "date": "12.08.2013.",
+      "home": "SPLIT",
+      "away": "ZADAR",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 5,
+      "date": "12.08.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 5,
+      "date": "12.08.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 5,
+      "date": "12.08.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 6,
+      "date": "18.08.2013.",
+      "home": "RIJEKA",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "18.08.2013.",
+      "home": "ZADAR",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "18.08.2013.",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "18.08.2013.",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 6,
+      "date": "18.08.2013.",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 7,
+      "date": "25.08.2013.",
+      "home": "SPLIT",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 7,
+      "date": "25.08.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 7,
+      "date": "25.08.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "ZADAR",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 7,
+      "date": "25.08.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 7,
+      "date": "25.08.2013.",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "31.08.2013.",
+      "home": "SPLIT",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "31.08.2013.",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 8,
+      "date": "31.08.2013.",
+      "home": "ZADAR",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 8,
+      "date": "31.08.2013.",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 8,
+      "date": "31.08.2013.",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 9,
+      "date": "13.09.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 9,
+      "date": "13.09.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "13.09.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "13.09.2013.",
+      "home": "ISTRA 1961",
+      "away": "ZADAR",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "13.09.2013.",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "22.09.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "22.09.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 10,
+      "date": "22.09.2013.",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "round": 10,
+      "date": "22.09.2013.",
+      "home": "HAJDUK",
+      "away": "ZADAR",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "22.09.2013.",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 11,
+      "date": "28.09.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "round": 11,
+      "date": "28.09.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 11,
+      "date": "28.09.2013.",
+      "home": "SPLIT",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 11,
+      "date": "28.09.2013.",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 11,
+      "date": "28.09.2013.",
+      "home": "ZADAR",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "05.10.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 12,
+      "date": "05.10.2013.",
+      "home": "ISTRA 1961",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 12,
+      "date": "05.10.2013.",
+      "home": "HAJDUK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "05.10.2013.",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "05.10.2013.",
+      "home": "OSIJEK",
+      "away": "ZADAR",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 13,
+      "date": "20.10.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 13,
+      "date": "20.10.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "20.10.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 13,
+      "date": "20.10.2013.",
+      "home": "SPLIT",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 13,
+      "date": "20.10.2013.",
+      "home": "RIJEKA",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 14,
+      "date": "27.10.2013.",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "27.10.2013.",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "27.10.2013.",
+      "home": "DINAMO",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "27.10.2013.",
+      "home": "ZADAR",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "27.10.2013.",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 15,
+      "date": "02.11.2013.",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 15,
+      "date": "02.11.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 15,
+      "date": "02.11.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 15,
+      "date": "02.11.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "ZADAR",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 15,
+      "date": "02.11.2013.",
+      "home": "SPLIT",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "09.11.2013.",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "09.11.2013.",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "09.11.2013.",
+      "home": "ZADAR",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 16,
+      "date": "09.11.2013.",
+      "home": "RIJEKA",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "09.11.2013.",
+      "home": "OSIJEK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 17,
+      "date": "24.11.2013.",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 17,
+      "date": "24.11.2013.",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 17,
+      "date": "24.11.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "ZADAR",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 17,
+      "date": "24.11.2013.",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 17,
+      "date": "24.11.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "SPLIT",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 18,
+      "date": "29.11.2013.",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 18,
+      "date": "29.11.2013.",
+      "home": "ZADAR",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "round": 18,
+      "date": "29.11.2013.",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 18,
+      "date": "29.11.2013.",
+      "home": "SPLIT",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "29.11.2013.",
+      "home": "OSIJEK",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "08.12.2013.",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "08.12.2013.",
+      "home": "ZADAR",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "08.12.2013.",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 19,
+      "date": "08.12.2013.",
+      "home": "SPLIT",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 19,
+      "date": "08.12.2013.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 20,
+      "date": "14.12.2013.",
+      "home": "DINAMO",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 20,
+      "date": "14.12.2013.",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "14.12.2013.",
+      "home": "ISTRA 1961",
+      "away": "SPLIT",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 20,
+      "date": "14.12.2013.",
+      "home": "SLAVEN BELUPO",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 20,
+      "date": "14.12.2013.",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 21,
+      "date": "08.02.2014.",
+      "home": "ZADAR",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 21,
+      "date": "08.02.2014.",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "08.02.2014.",
+      "home": "SPLIT",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "08.02.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "08.02.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "16.02.2014.",
+      "home": "ZADAR",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "16.02.2014.",
+      "home": "DINAMO",
+      "away": "SPLIT",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "16.02.2014.",
+      "home": "HAJDUK",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "16.02.2014.",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 4
+    },
+    {
+      "round": 22,
+      "date": "16.02.2014.",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 23,
+      "date": "23.02.2014.",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 23,
+      "date": "23.02.2014.",
+      "home": "SPLIT",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 23,
+      "date": "23.02.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 23,
+      "date": "23.02.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "23.02.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 24,
+      "date": "01.03.2014.",
+      "home": "RIJEKA",
+      "away": "SPLIT",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 24,
+      "date": "01.03.2014.",
+      "home": "ZADAR",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "round": 24,
+      "date": "01.03.2014.",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 24,
+      "date": "01.03.2014.",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "01.03.2014.",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 25,
+      "date": "08.03.2014.",
+      "home": "SPLIT",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 25,
+      "date": "08.03.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "08.03.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "ZADAR",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 25,
+      "date": "08.03.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 6
+    },
+    {
+      "round": 25,
+      "date": "08.03.2014.",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "16.03.2014.",
+      "home": "SPLIT",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "16.03.2014.",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 26,
+      "date": "16.03.2014.",
+      "home": "ZADAR",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "16.03.2014.",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 6,
+      "awayGoals": 0
+    },
+    {
+      "round": 26,
+      "date": "16.03.2014.",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 27,
+      "date": "23.03.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 27,
+      "date": "23.03.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 27,
+      "date": "23.03.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 27,
+      "date": "23.03.2014.",
+      "home": "ISTRA 1961",
+      "away": "ZADAR",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 27,
+      "date": "23.03.2014.",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 28,
+      "date": "30.03.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 28,
+      "date": "30.03.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 28,
+      "date": "30.03.2014.",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 28,
+      "date": "30.03.2014.",
+      "home": "HAJDUK",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 28,
+      "date": "30.03.2014.",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 29,
+      "date": "04.04.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 29,
+      "date": "04.04.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 29,
+      "date": "04.04.2014.",
+      "home": "SPLIT",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "04.04.2014.",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 29,
+      "date": "04.04.2014.",
+      "home": "ZADAR",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "12.04.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 30,
+      "date": "12.04.2014.",
+      "home": "ISTRA 1961",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 30,
+      "date": "12.04.2014.",
+      "home": "HAJDUK",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "12.04.2014.",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "12.04.2014.",
+      "home": "OSIJEK",
+      "away": "ZADAR",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "15.04.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 31,
+      "date": "15.04.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 31,
+      "date": "15.04.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "HAJDUK",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 31,
+      "date": "15.04.2014.",
+      "home": "SPLIT",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 31,
+      "date": "15.04.2014.",
+      "home": "RIJEKA",
+      "away": "ZADAR",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "19.04.2014.",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 32,
+      "date": "19.04.2014.",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 32,
+      "date": "19.04.2014.",
+      "home": "DINAMO",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "19.04.2014.",
+      "home": "ZADAR",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 32,
+      "date": "19.04.2014.",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "25.04.2014.",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "25.04.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "25.04.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 33,
+      "date": "25.04.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "ZADAR",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 33,
+      "date": "25.04.2014.",
+      "home": "SPLIT",
+      "away": "RIJEKA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 34,
+      "date": "03.05.2014.",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "03.05.2014.",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 34,
+      "date": "03.05.2014.",
+      "home": "ZADAR",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 4
+    },
+    {
+      "round": 34,
+      "date": "03.05.2014.",
+      "home": "RIJEKA",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "03.05.2014.",
+      "home": "OSIJEK",
+      "away": "SPLIT",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 35,
+      "date": "11.05.2014.",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 35,
+      "date": "11.05.2014.",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 35,
+      "date": "11.05.2014.",
+      "home": "SLAVEN BELUPO",
+      "away": "ZADAR",
+      "homeGoals": 5,
+      "awayGoals": 1
+    },
+    {
+      "round": 35,
+      "date": "11.05.2014.",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 5
+    },
+    {
+      "round": 35,
+      "date": "11.05.2014.",
+      "home": "HRVATSKI DRAGOVOLJAC",
+      "away": "SPLIT",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 36,
+      "date": "17.05.2014.",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "17.05.2014.",
+      "home": "ZADAR",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "17.05.2014.",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "17.05.2014.",
+      "home": "SPLIT",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 36,
+      "date": "17.05.2014.",
+      "home": "OSIJEK",
+      "away": "HRVATSKI DRAGOVOLJAC",
+      "homeGoals": 1,
+      "awayGoals": 1
+    }
+  ],
+  "officialTable": [
+    {
+      "pos": 1,
+      "club": "DINAMO",
+      "played": 36,
+      "won": 26,
+      "drawn": 6,
+      "lost": 4,
+      "gf": 83,
+      "ga": 26,
+      "points": 84
+    },
+    {
+      "pos": 2,
+      "club": "RIJEKA",
+      "played": 36,
+      "won": 21,
+      "drawn": 10,
+      "lost": 5,
+      "gf": 72,
+      "ga": 35,
+      "points": 73
+    },
+    {
+      "pos": 3,
+      "club": "HAJDUK",
+      "played": 36,
+      "won": 17,
+      "drawn": 11,
+      "lost": 8,
+      "gf": 58,
+      "ga": 44,
+      "points": 62
+    },
+    {
+      "pos": 4,
+      "club": "SPLIT",
+      "played": 36,
+      "won": 14,
+      "drawn": 10,
+      "lost": 12,
+      "gf": 41,
+      "ga": 41,
+      "points": 52
+    },
+    {
+      "pos": 5,
+      "club": "LOKOMOTIVA",
+      "played": 36,
+      "won": 15,
+      "drawn": 7,
+      "lost": 14,
+      "gf": 57,
+      "ga": 59,
+      "points": 52
+    },
+    {
+      "pos": 6,
+      "club": "ISTRA 1961",
+      "played": 36,
+      "won": 12,
+      "drawn": 8,
+      "lost": 16,
+      "gf": 45,
+      "ga": 56,
+      "points": 44
+    },
+    {
+      "pos": 7,
+      "club": "ZADAR",
+      "played": 36,
+      "won": 10,
+      "drawn": 5,
+      "lost": 21,
+      "gf": 35,
+      "ga": 67,
+      "points": 35
+    },
+    {
+      "pos": 8,
+      "club": "OSIJEK",
+      "played": 36,
+      "won": 8,
+      "drawn": 9,
+      "lost": 19,
+      "gf": 38,
+      "ga": 62,
+      "points": 33
+    },
+    {
+      "pos": 9,
+      "club": "SLAVEN BELUPO",
+      "played": 36,
+      "won": 7,
+      "drawn": 11,
+      "lost": 18,
+      "gf": 46,
+      "ga": 65,
+      "points": 32
+    },
+    {
+      "pos": 10,
+      "club": "HRVATSKI DRAGOVOLJAC",
+      "played": 36,
+      "won": 7,
+      "drawn": 9,
+      "lost": 20,
+      "gf": 41,
+      "ga": 61,
+      "points": 30
+    }
+  ]
+}
