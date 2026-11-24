@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-11-24T08:21:46.264Z",
+  "current": "2026-27",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "status": "ok",
+      "file": "2013-14.json"
+    },
+    {
+      "season": "2014-15",
+      "status": "ok",
+      "file": "2014-15.json"
+    },
+    {
+      "season": "2015-16",
+      "status": "ok",
+      "file": "2015-16.json"
+    },
+    {
+      "season": "2016-17",
+      "status": "ok",
+      "file": "2016-17.json"
+    },
+    {
+      "season": "2017-18",
+      "status": "ok",
+      "file": "2017-18.json"
+    },
+    {
+      "season": "2018-19",
+      "status": "ok",
+      "file": "2018-19.json"
+    },
+    {
+      "season": "2019-20",
+      "status": "ok",
+      "file": "2019-20.json"
+    },
+    {
+      "season": "2020-21",
+      "status": "ok",
+      "file": "2020-21.json"
+    },
+    {
+      "season": "2021-22",
+      "status": "ok",
+      "file": "2021-22.json"
+    },
+    {
+      "season": "2022-23",
+      "status": "ok",
+      "file": "2022-23.json"
+    },
+    {
+      "season": "2023-24",
+      "status": "ok",
+      "file": "2023-24.json"
+    },
+    {
+      "season": "2024-25",
+      "status": "ok",
+      "file": "2024-25.json"
+    },
+    {
+      "season": "2025-26",
+      "status": "ok",
+      "file": "2025-26.json"
+    },
+    {
+      "season": "2026-27",
+      "status": "ok",
+      "file": "2026-27.json"
+    }
+  ]
+}

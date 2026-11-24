@@ -1,0 +1,1560 @@
+{
+  "season": "2015-16",
+  "sid": 25,
+  "source": "https://hnl.hr/povijest/rezultati-i-poretci/?sid=25",
+  "scrapedAt": "2026-11-24T08:21:33.578Z",
+  "matches": [
+    {
+      "round": 1,
+      "date": "10.07.2015. 20:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 1,
+      "date": "11.07.2015. 19:00",
+      "home": "ZAGREB",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "11.07.2015. 21:00",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "12.07.2015. 19:00",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 1,
+      "date": "13.07.2015. 20:00",
+      "home": "SPLIT",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "18.07.2015. 21:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "19.07.2015. 19:00",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 2,
+      "date": "19.07.2015. 21:00",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 2,
+      "date": "19.07.2015. 21:00",
+      "home": "HAJDUK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 2,
+      "date": "20.07.2015. 20:00",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 6,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "25.07.2015. 19:00",
+      "home": "DINAMO",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 5,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "25.07.2015. 21:00",
+      "home": "SPLIT",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "26.07.2015. 19:00",
+      "home": "ZAGREB",
+      "away": "RIJEKA",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "round": 3,
+      "date": "26.07.2015. 21:00",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 3,
+      "date": "27.07.2015. 20:00",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "31.07.2015. 21:00",
+      "home": "ZAGREB",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "01.08.2015. 19:00",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "01.08.2015. 21:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 4,
+      "date": "02.08.2015. 19:00",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 4,
+      "date": "02.08.2015. 21:00",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 5,
+      "date": "07.08.2015. 20:00",
+      "home": "SPLIT",
+      "away": "ZAGREB",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 5,
+      "date": "08.08.2015. 19:00",
+      "home": "ISTRA 1961",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 5,
+      "date": "08.08.2015. 21:00",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 5,
+      "date": "09.08.2015. 21:00",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 5,
+      "date": "10.08.2015. 20:00",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 6,
+      "date": "14.08.2015. 20:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "15.08.2015. 19:00",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 6,
+      "date": "15.08.2015. 21:00",
+      "home": "DINAMO",
+      "away": "SPLIT",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 6,
+      "date": "16.08.2015. 19:00",
+      "home": "ZAGREB",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 6,
+      "date": "17.08.2015. 20:00",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 7,
+      "date": "21.08.2015. 20:00",
+      "home": "LOKOMOTIVA",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 7,
+      "date": "22.08.2015. 19:00",
+      "home": "SPLIT",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 7,
+      "date": "22.08.2015. 21:00",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 7,
+      "date": "23.08.2015. 19:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ZAGREB",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 7,
+      "date": "23.08.2015. 21:00",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "28.08.2015. 20:00",
+      "home": "ZAGREB",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 8,
+      "date": "29.08.2015. 19:00",
+      "home": "SPLIT",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "29.08.2015. 21:00",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 8,
+      "date": "30.08.2015. 19:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 8,
+      "date": "30.08.2015. 21:00",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "round": 9,
+      "date": "11.09.2015. 18:00",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "round": 9,
+      "date": "12.09.2015. 17:00",
+      "home": "SLAVEN BELUPO",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "12.09.2015. 19:00",
+      "home": "HAJDUK",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 9,
+      "date": "13.09.2015. 17:00",
+      "home": "OSIJEK",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 9,
+      "date": "13.09.2015. 19:00",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 10,
+      "date": "18.09.2015. 18:00",
+      "home": "OSIJEK",
+      "away": "ZAGREB",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "19.09.2015. 17:00",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "19.09.2015. 19:15",
+      "home": "RIJEKA",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "20.09.2015. 17:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 10,
+      "date": "20.09.2015. 19:00",
+      "home": "LOKOMOTIVA",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 11,
+      "date": "25.09.2015. 18:00",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 11,
+      "date": "26.09.2015. 17:00",
+      "home": "ZAGREB",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "round": 11,
+      "date": "26.09.2015. 19:00",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 11,
+      "date": "27.09.2015. 17:00",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 11,
+      "date": "27.09.2015. 19:00",
+      "home": "SPLIT",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 12,
+      "date": "02.10.2015. 18:00",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 12,
+      "date": "03.10.2015. 15:00",
+      "home": "OSIJEK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 12,
+      "date": "03.10.2015. 19:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 12,
+      "date": "04.10.2015. 15:00",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 12,
+      "date": "04.10.2015. 19:00",
+      "home": "RIJEKA",
+      "away": "ZAGREB",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "16.10.2015. 18:00",
+      "home": "DINAMO",
+      "away": "ZAGREB",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "17.10.2015. 15:00",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "17.10.2015. 19:00",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 13,
+      "date": "18.10.2015. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 13,
+      "date": "18.10.2015. 19:00",
+      "home": "SPLIT",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "23.10.2015. 18:00",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 14,
+      "date": "24.10.2015. 15:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 14,
+      "date": "24.10.2015. 19:00",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "25.10.2015. 15:00",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 14,
+      "date": "25.10.2015. 19:00",
+      "home": "ZAGREB",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 15,
+      "date": "30.10.2015. 18:00",
+      "home": "SPLIT",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 15,
+      "date": "31.10.2015. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 15,
+      "date": "31.10.2015. 19:00",
+      "home": "ISTRA 1961",
+      "away": "ZAGREB",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 15,
+      "date": "01.11.2015. 17:00",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 15,
+      "date": "01.11.2015. 19:00",
+      "home": "SLAVEN BELUPO",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "06.11.2015. 18:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 16,
+      "date": "07.11.2015. 15:00",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "07.11.2015. 19:00",
+      "home": "ZAGREB",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "08.11.2015. 15:00",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 16,
+      "date": "08.11.2015. 19:00",
+      "home": "RIJEKA",
+      "away": "SPLIT",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 17,
+      "date": "20.11.2015. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 17,
+      "date": "21.11.2015. 15:00",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 17,
+      "date": "21.11.2015. 17:00",
+      "home": "HAJDUK",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 17,
+      "date": "22.11.2015. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "ZAGREB",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 17,
+      "date": "22.11.2015. 17:00",
+      "home": "ISTRA 1961",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 18,
+      "date": "27.11.2015. 16:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "27.11.2015. 18:00",
+      "home": "SPLIT",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "28.11.2015. 15:00",
+      "home": "ZAGREB",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 18,
+      "date": "28.11.2015. 17:00",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 18,
+      "date": "29.11.2015. 15:00",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "04.12.2015. 18:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 19,
+      "date": "05.12.2015. 15:00",
+      "home": "DINAMO",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "05.12.2015. 17:05",
+      "home": "SPLIT",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "06.12.2015. 15:00",
+      "home": "ZAGREB",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 19,
+      "date": "06.12.2015. 17:00",
+      "home": "ISTRA 1961",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "11.12.2015. 18:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "ZAGREB",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "12.12.2015. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 20,
+      "date": "12.12.2015. 17:00",
+      "home": "HAJDUK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 20,
+      "date": "13.12.2015. 15:00",
+      "home": "OSIJEK",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 20,
+      "date": "13.12.2015. 17:00",
+      "home": "RIJEKA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 21,
+      "date": "18.12.2015. 18:00",
+      "home": "ZAGREB",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "19.12.2015. 15:00",
+      "home": "DINAMO",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 21,
+      "date": "19.12.2015. 17:00",
+      "home": "ISTRA 1961",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 21,
+      "date": "20.12.2015. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 21,
+      "date": "20.12.2015. 17:00",
+      "home": "SPLIT",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "12.02.2016. 18:00",
+      "home": "RIJEKA",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "13.02.2016. 15:00",
+      "home": "OSIJEK",
+      "away": "ISTRA 1961",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "13.02.2016. 17:00",
+      "home": "HAJDUK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 22,
+      "date": "14.02.2016. 15:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 22,
+      "date": "14.02.2016. 17:00",
+      "home": "ZAGREB",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "19.02.2016. 18:00",
+      "home": "SPLIT",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 23,
+      "date": "20.02.2016. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 23,
+      "date": "20.02.2016. 17:00",
+      "home": "ISTRA 1961",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 23,
+      "date": "21.02.2016. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "OSIJEK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 23,
+      "date": "21.02.2016. 17:00",
+      "home": "DINAMO",
+      "away": "RIJEKA",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "26.02.2016. 16:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 24,
+      "date": "26.02.2016. 18:00",
+      "home": "ZAGREB",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 24,
+      "date": "27.02.2016. 15:00",
+      "home": "OSIJEK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 24,
+      "date": "27.02.2016. 17:00",
+      "home": "RIJEKA",
+      "away": "HAJDUK",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 24,
+      "date": "28.02.2016. 15:00",
+      "home": "DINAMO",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 25,
+      "date": "01.03.2016. 17:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ZAGREB",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 25,
+      "date": "01.03.2016. 19:00",
+      "home": "HAJDUK",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "02.03.2016. 17:00",
+      "home": "LOKOMOTIVA",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "02.03.2016. 19:00",
+      "home": "SPLIT",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 25,
+      "date": "03.03.2016. 18:00",
+      "home": "ISTRA 1961",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "05.03.2016. 15:00",
+      "home": "ZAGREB",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "round": 26,
+      "date": "06.03.2016. 15:00",
+      "home": "DINAMO",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "06.03.2016. 17:00",
+      "home": "RIJEKA",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "07.03.2016. 18:00",
+      "home": "SPLIT",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 26,
+      "date": "08.03.2016. 17:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 27,
+      "date": "11.03.2016. 18:00",
+      "home": "OSIJEK",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 27,
+      "date": "12.03.2016. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 27,
+      "date": "12.03.2016. 17:00",
+      "home": "ISTRA 1961",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 27,
+      "date": "13.03.2016. 15:00",
+      "home": "DINAMO",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "round": 27,
+      "date": "13.03.2016. 17:00",
+      "home": "HAJDUK",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "18.03.2016. 17:00",
+      "home": "OSIJEK",
+      "away": "ZAGREB",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "19.03.2016. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "19.03.2016. 17:00",
+      "home": "RIJEKA",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "20.03.2016. 15:00",
+      "home": "HAJDUK",
+      "away": "DINAMO",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 28,
+      "date": "20.03.2016. 17:00",
+      "home": "LOKOMOTIVA",
+      "away": "SPLIT",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 29,
+      "date": "01.04.2016. 18:00",
+      "home": "ZAGREB",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "02.04.2016. 15:00",
+      "home": "ISTRA 1961",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 29,
+      "date": "02.04.2016. 19:00",
+      "home": "SLAVEN BELUPO",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "03.04.2016. 15:00",
+      "home": "DINAMO",
+      "away": "OSIJEK",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 29,
+      "date": "03.04.2016. 19:00",
+      "home": "SPLIT",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "08.04.2016. 18:00",
+      "home": "OSIJEK",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "09.04.2016. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "09.04.2016. 19:00",
+      "home": "RIJEKA",
+      "away": "ZAGREB",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 30,
+      "date": "10.04.2016. 15:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 30,
+      "date": "10.04.2016. 19:00",
+      "home": "HAJDUK",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "15.04.2016. 18:00",
+      "home": "SPLIT",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "15.04.2016. 20:00",
+      "home": "ISTRA 1961",
+      "away": "OSIJEK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "16.04.2016. 15:00",
+      "home": "LOKOMOTIVA",
+      "away": "RIJEKA",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 31,
+      "date": "16.04.2016. 19:00",
+      "home": "DINAMO",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 31,
+      "date": "17.04.2016. 15:00",
+      "home": "SLAVEN BELUPO",
+      "away": "HAJDUK",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "19.04.2016. 17:00",
+      "home": "ZAGREB",
+      "away": "SPLIT",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "19.04.2016. 20:00",
+      "home": "RIJEKA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "20.04.2016. 17:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "ISTRA 1961",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "20.04.2016. 19:00",
+      "home": "HAJDUK",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 32,
+      "date": "21.04.2016. 19:00",
+      "home": "OSIJEK",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "23.04.2016. 15:00",
+      "home": "ISTRA 1961",
+      "away": "ZAGREB",
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "round": 33,
+      "date": "23.04.2016. 19:00",
+      "home": "SPLIT",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "round": 33,
+      "date": "24.04.2016. 15:00",
+      "home": "HAJDUK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "round": 33,
+      "date": "24.04.2016. 19:00",
+      "home": "LOKOMOTIVA",
+      "away": "OSIJEK",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 33,
+      "date": "25.04.2016. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "29.04.2016. 18:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "LOKOMOTIVA",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "30.04.2016. 15:00",
+      "home": "ZAGREB",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 34,
+      "date": "30.04.2016. 19:00",
+      "home": "DINAMO",
+      "away": "ISTRA 1961",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "round": 34,
+      "date": "01.05.2016. 15:00",
+      "home": "OSIJEK",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "round": 34,
+      "date": "01.05.2016. 19:00",
+      "home": "RIJEKA",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 35,
+      "date": "06.05.2016. 18:00",
+      "home": "SLAVEN BELUPO",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "round": 35,
+      "date": "07.05.2016. 17:00",
+      "home": "LOKOMOTIVA",
+      "away": "ZAGREB",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 35,
+      "date": "07.05.2016. 19:00",
+      "home": "OSIJEK",
+      "away": "RIJEKA",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "round": 35,
+      "date": "08.05.2016. 17:00",
+      "home": "ISTRA 1961",
+      "away": "SPLIT",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "round": 35,
+      "date": "08.05.2016. 19:00",
+      "home": "HAJDUK",
+      "away": "INTER-ZAPREŠIĆ",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 36,
+      "date": "13.05.2016. 17:00",
+      "home": "INTER-ZAPREŠIĆ",
+      "away": "OSIJEK",
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "round": 36,
+      "date": "14.05.2016. 17:00",
+      "home": "RIJEKA",
+      "away": "ISTRA 1961",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "round": 36,
+      "date": "14.05.2016. 17:00",
+      "home": "ZAGREB",
+      "away": "HAJDUK",
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "round": 36,
+      "date": "14.05.2016. 19:00",
+      "home": "SPLIT",
+      "away": "SLAVEN BELUPO",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "round": 36,
+      "date": "14.05.2016. 19:05",
+      "home": "LOKOMOTIVA",
+      "away": "DINAMO",
+      "homeGoals": 0,
+      "awayGoals": 4
+    }
+  ],
+  "officialTable": [
+    {
+      "pos": 1,
+      "club": "DINAMO",
+      "played": 36,
+      "won": 26,
+      "drawn": 7,
+      "lost": 3,
+      "gf": 67,
+      "ga": 19,
+      "points": 85
+    },
+    {
+      "pos": 2,
+      "club": "RIJEKA",
+      "played": 36,
+      "won": 21,
+      "drawn": 14,
+      "lost": 1,
+      "gf": 56,
+      "ga": 20,
+      "points": 77
+    },
+    {
+      "pos": 3,
+      "club": "HAJDUK",
+      "played": 36,
+      "won": 17,
+      "drawn": 10,
+      "lost": 9,
+      "gf": 46,
+      "ga": 28,
+      "points": 61
+    },
+    {
+      "pos": 4,
+      "club": "LOKOMOTIVA",
+      "played": 36,
+      "won": 16,
+      "drawn": 4,
+      "lost": 16,
+      "gf": 56,
+      "ga": 53,
+      "points": 52
+    },
+    {
+      "pos": 5,
+      "club": "INTER-ZAPREŠIĆ",
+      "played": 36,
+      "won": 11,
+      "drawn": 14,
+      "lost": 11,
+      "gf": 39,
+      "ga": 48,
+      "points": 47
+    },
+    {
+      "pos": 6,
+      "club": "SPLIT",
+      "played": 36,
+      "won": 10,
+      "drawn": 16,
+      "lost": 10,
+      "gf": 28,
+      "ga": 29,
+      "points": 46
+    },
+    {
+      "pos": 7,
+      "club": "SLAVEN BELUPO",
+      "played": 36,
+      "won": 10,
+      "drawn": 12,
+      "lost": 14,
+      "gf": 41,
+      "ga": 42,
+      "points": 42
+    },
+    {
+      "pos": 8,
+      "club": "OSIJEK",
+      "played": 36,
+      "won": 7,
+      "drawn": 13,
+      "lost": 16,
+      "gf": 27,
+      "ga": 49,
+      "points": 34
+    },
+    {
+      "pos": 9,
+      "club": "ISTRA 1961",
+      "played": 36,
+      "won": 4,
+      "drawn": 12,
+      "lost": 20,
+      "gf": 23,
+      "ga": 58,
+      "points": 24
+    },
+    {
+      "pos": 10,
+      "club": "ZAGREB",
+      "played": 36,
+      "won": 3,
+      "drawn": 8,
+      "lost": 25,
+      "gf": 27,
+      "ga": 64,
+      "points": 17
+    }
+  ]
+}

@@ -56,3 +56,21 @@ test('ljestvica → 10 rows, normalized clubs', () => {
   expect(rows).toHaveLength(10)
   expect(rows[0]).toMatchObject({ pos: 1, club: 'HAJDUK', played: 14, won: 10, drawn: 2, lost: 2, gf: 29, ga: 12, points: 32 })
 })
+
+test('normalizeClub resolves hnl.hr abbreviations and deduction markers', () => {
+  expect(normalizeClub('Hrv. Dragovoljac')).toBe('HRVATSKI DRAGOVOLJAC')
+  expect(normalizeClub('Sl. Belupo')).toBe('SLAVEN BELUPO')
+  expect(normalizeClub('Istra')).toBe('ISTRA 1961')
+  expect(normalizeClub(' HAJDUK (-3) ')).toBe('HAJDUK')
+})
+
+test('abandoned match replayed in the same round: only the later (replay) row is kept', () => {
+  const row = (d, h, hg, ag, a) => `<tr><td>${d}</td><td>${h}</td><td>${hg}</td><td> : </td><td>${ag}</td><td>${a}</td></tr>`
+  const html = `<table class="table1 raspored utakmice"><tr class="th"><th>20. kolo</th></tr>
+    ${row('15.12.2017. 18:00', 'Slaven Belupo', 0, 0, 'Lokomotiva')}
+    ${row('16.12.2017. 15:00', 'Dinamo', 1, 0, 'Cibalia')}
+    ${row('18.12.2017. 14:00', 'Slaven Belupo', 2, 2, 'Lokomotiva')}</table>`
+  const { matches } = parseSeasonPage(html)
+  expect(matches).toHaveLength(2)
+  expect(matches.find(m => m.home === 'SLAVEN BELUPO')).toMatchObject({ date: '18.12.2017. 14:00', homeGoals: 2, awayGoals: 2 })
+})

@@ -14,8 +14,21 @@ import * as cheerio from 'cheerio'
 /** @typedef {{ pos: number, club: string, played: number, won: number, drawn: number,
  *              lost: number, gf: number, ga: number, points: number }} OfficialRow */
 
+// hnl.hr spells some clubs differently between seasons, rows and tables.
+const ALIASES = {
+  'HRV. DRAGOVOLJAC': 'HRVATSKI DRAGOVOLJAC',
+  'SL. BELUPO': 'SLAVEN BELUPO',
+  'ISTRA': 'ISTRA 1961',
+}
+
 export function normalizeClub(name) {
-  return name.replace(/ /g, ' ').replace(/\s+/g, ' ').trim().toUpperCase()
+  const n = name
+    .replace(/ /g, ' ')
+    .replace(/\(\s*-\d+\s*\)/g, '') // official-table deduction marker, e.g. "HAJDUK (-3)"
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toUpperCase()
+  return ALIASES[n] ?? n
 }
 
 /** @returns {{ matches: Match[], officialTable: OfficialRow[]|null }} */
@@ -42,7 +55,15 @@ export function parseSeasonPage(html) {
     })
   })
   const table = standingsTable($)
-  return { matches, officialTable: table.length ? table : null }
+  return { matches: dropAbandoned(matches), officialTable: table.length ? table : null }
+}
+
+// An abandoned match and its replay are both listed in the same round; rows are in
+// date order, so the last row for a fixture is the result that counts.
+function dropAbandoned(matches) {
+  const last = new Map()
+  matches.forEach((m, i) => last.set(`${m.round}|${m.home}|${m.away}`, i))
+  return matches.filter((m, i) => last.get(`${m.round}|${m.home}|${m.away}`) === i)
 }
 
 /** @returns {OfficialRow[]} */
