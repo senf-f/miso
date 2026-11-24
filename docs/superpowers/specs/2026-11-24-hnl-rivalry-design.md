@@ -47,7 +47,7 @@ Option 1 was picked because it matches the toy scope, needs no key, and keeps hn
 ### Sources (hnl.hr, server-rendered HTML, parsed with cheerio)
 - **Current season:** `https://hnl.hr/supersport-hnl/raspored-i-rezultati/`. All 36 rounds are on one page.
 - **Past seasons:** `https://hnl.hr/povijest/rezultati-i-poretci/?sid=N`, with the same row format. sid=23 is 2013/14 … sid=35 is 2025/26. As of 2026-11-24, sid=35 has all 36 rounds; it was empty on 2026-11-01.
-- **Current season (as of 2026-11-24):** 2026/27. The current-season page carries no season label, so the season is inferred from its dates (31.07.2026 to 22.05.2027) or set in config. Rounds 1 to 14 are played. Round 1 contains a postponed match, Rijeka–Dinamo on 03.12.2026, which is a real case for the postponed-match rule.
+- **Current season (as of 2026-11-24):** 2026/27. The current-season page carries no season label, so the season is inferred from its dates (31.07.2026 to 22.05.2027) or set in config. Rounds 1 to 14 are played. Round 2 contains a postponed match, Rijeka–Dinamo on 03.12.2026, which is a real case for the postponed-match rule.
 - **Archive pages also hold the official final table:** columns `# | Klub | Uk | Pob | Ner | Por | G+ | G- | GR | Bod`. The golden test uses it (see §8).
 - **Ignore the sidebar "Ljestvica" widget.** It appears on every page (archive and current) and shows the live current table. It must never be mistaken for the season's table.
 - **Row format:** a `<th>N. kolo</th>` row starts round N. It is followed by match rows: date / home / home goals / " : " / away goals / away. Empty scores mean the match is not played yet.
