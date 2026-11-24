@@ -31,9 +31,12 @@ function fakeFetch(pages) {
   return fn
 }
 
+// The 2024-25 page re-dated to 2023-24, so it passes the season date check.
+const asSeason2023 = html => html.replace(/\.2024\./g, '.2023.').replace(/\.2025\./g, '.2024.')
+
 function pages(overrides = {}) {
   return {
-    [archiveUrl(33)]: fixture('archive-sid34.html'),
+    [archiveUrl(33)]: asSeason2023(fixture('archive-sid34.html')),
     [archiveUrl(34)]: fixture('archive-sid34.html'),
     [CURRENT.url]: fixture('current.html'),
     [STANDINGS_URL]: fixture('ljestvica.html'),
@@ -84,7 +87,7 @@ test('empty page does not replace an existing good file', async () => {
 
 test('invalid season keeps the existing file and exits 1', async () => {
   await writeFile(join(outDir, '2023-24.json'), 'GOOD')
-  const broken = fixture('archive-sid34.html').replace(/<tr><td>02\.08\.2024\.[\s\S]*?<\/tr>/, '')
+  const broken = asSeason2023(fixture('archive-sid34.html')).replace(/<tr><td>02\.08\.2023\.[\s\S]*?<\/tr>/, '')
   expect(await run(fakeFetch(pages({ [archiveUrl(33)]: broken })))).toEqual({ exitCode: 1 })
   expect(await readFile(join(outDir, '2023-24.json'), 'utf8')).toBe('GOOD')
   expect(logs.join('\n')).toMatch(/round 1/)
@@ -114,4 +117,12 @@ test('standings cross-check mismatch only warns', async () => {
 test('no .tmp files left behind', async () => {
   await run(fakeFetch(pages()))
   expect((await readdir(outDir)).filter(f => f.endsWith('.tmp'))).toEqual([])
+})
+
+test('season rollover: current page showing another season does not overwrite the file', async () => {
+  await writeFile(join(outDir, '2026-27.json'), 'GOOD')
+  const fetchImpl = fakeFetch(pages({ [CURRENT.url]: fixture('archive-sid34.html') })) // 2024-25 dates
+  expect(await run(fetchImpl)).toEqual({ exitCode: 1 })
+  expect(await readFile(join(outDir, '2026-27.json'), 'utf8')).toBe('GOOD')
+  expect(logs.join('\n')).toMatch(/outside season 2026-27/)
 })

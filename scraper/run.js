@@ -66,7 +66,7 @@ export async function scrapeAll({
       continue
     }
 
-    const { ok, errors } = validateSeason(matches, { allowUnplayed: job.isCurrent })
+    const { ok, errors } = validateSeason(matches, { allowUnplayed: job.isCurrent, season: job.season })
     if (!ok) {
       log.error(`${job.season}: invalid data, ${existing ? 'keeping existing file' : 'nothing written'}`)
       for (const e of errors) log.error(`  ${e}`)
